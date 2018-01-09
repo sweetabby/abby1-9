@@ -1,0 +1,5 @@
+@import "2.css";
+*{
+    color: darkred;
+    background: url('../img/bg.png') no-repeat center;
+}
